@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 😜
 
-<!--
-**mauriciodelrio/mauriciodelrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Mauricio Del Río Zorrilla
+#### 🐜 Dev | IT Consultant | Human | 6 Years Experience
 
-Here are some ideas to get you started:
+💼 Now working on [1health](https://1health.io).
+✏️ also teacher at  [UDD Scala Learning](https://scalalearning.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💛 Python | Django
+💛 Javascript | NodeJs | React | NextJs | JQuery
+💛 MongoDB | PostgreSQL
+📙 English B2 IELTS
+🌱 Flask
+🌱 C#
+
+Expected Salary: [ + than 6000 USD 💵]
+
+📫 mauricio.delr@gmail.com
+⭐ [Portfolio](https://delrio.dev)
+
+My Family:
+
+🐱  Tachan
+🐱  Yuchan
+🐱  Chiquilin
+👩  Camila
+
