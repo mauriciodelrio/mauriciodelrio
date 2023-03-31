@@ -1,36 +1,26 @@
 ### Hi there 😜
 
 #### Mauricio Del Río Zorrilla
-#### 🐜 Dev | IT Consultant | Human | 6 Years Experience
+#### 🐜 Dev | IT Consultant | Human | +6 Years Experience
 
-💼 Now working on [1health](https://1health.io).
+💼 Now working on [Perficient](https://perficient.com).
 
-✏️ also teacher at  [UDD Scala Learning](https://scalalearning.com)
-
+💛 Javascript | NodeJs | React | NextJs | JQuery | Typescript
 
 💛 Python | Django
-
-💛 Javascript | NodeJs | React | NextJs | JQuery
 
 💛 MongoDB | PostgreSQL
 
 📙 English B2 IELTS
 
-🌱 Flask
 
-🌱 C#
-
-
-Expected Salary: [ + than 6000 USD 💵]
+Expected Salary: [ + than 7500 USD 💵]
 
 
-📫 mauricio.delr@gmail.com
+📫 contacto@delrio.dev
 ⭐ [Portfolio](https://delrio.dev)
 
 My Family:
 
-🐱  Tachan
-🐱  Yuchan
-🐱  Chiquilin
-👩  Camila
+🐱  🐱  🐱  👩 
 
