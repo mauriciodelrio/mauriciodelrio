@@ -14,7 +14,7 @@
 📙 English B2 IELTS
 
 
-Expected Salary: [ + than 7500 USD 💵]
+Expected Salary: [ + than 6000 USD 💵]
 
 
 📫 contacto@delrio.dev
