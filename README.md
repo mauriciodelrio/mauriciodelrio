@@ -1,23 +1,24 @@
 ### Hi there 😜
 
 #### Mauricio Del Río Zorrilla
-#### 🐜 Dev | IT Consultant | Human | +6 Years Experience
+#### 🐜 Dev | IT Consultant | Human | +8 Years Experience
 
-💼 Now working on [Perficient](https://perficient.com).
+💼 Seeking job opportunities. (Start inmediatly)
 
-💛 Javascript | NodeJs | React | NextJs | JQuery | Typescript
+💛 Senior in:  Javascript | NodeJs | React | Redux | NextJs | JQuery | Typescript | NestJs
 
-💛 Python | Django
+💛 Basic knowledge: Python | Django
 
-💛 MongoDB | PostgreSQL
+💛 Databases: MongoDB | PostgreSQL
 
 📙 English B2 IELTS
 
 
-Expected Salary: [ + than 6000 USD 💵]
+Expected Salary: [ + than 5500 USD 💵] Negotiable.
 
 
 📫 contacto@delrio.dev
+📫 mauricio.delr@gmail.com
 ⭐ [Portfolio](https://delrio.dev)
 
 My Family:
