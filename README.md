@@ -3,7 +3,7 @@
 #### Mauricio Del Río Zorrilla
 #### 🐜 Dev | IT Consultant | Human | +8 Years Experience
 
-💼 Seeking job opportunities. (Start inmediatly)
+💼 Seeking job opportunities. (Start immediately)
 
 💛 Senior in:  Javascript | NodeJs | React | Redux | NextJs | JQuery | Typescript | NestJs
 
@@ -14,7 +14,7 @@
 📙 English B2 IELTS
 
 
-Expected Salary: [ + than 5500 USD 💵] Negotiable.
+Expected Salary: [ + than 5000 USD 💵] Negotiable.
 
 
 📫 contacto@delrio.dev
